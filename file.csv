@@ -1986,5 +1986,5 @@ AwakeEventInfo/configurationVersionNumber,1,(),int32
 AwakeEventInfo/eventNumber,1,(),int32
 AwakeEventInfo/runNumber,1,(),int32
 AwakeEventInfo/timestamp,1,(),int64
-D,a,t,a,T,y,p,e
+DataType
 __DATA_TYPES__/Enum_Boolean,__DATA_TYPES__/String_VariableLength
